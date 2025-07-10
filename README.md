@@ -67,7 +67,7 @@ sudo apt install tesseract-ocr
 ### 📁 Folder Structure (if exported)
 
 ```
-├── Aadhar_OCR.ipynb
+├── OcrAdhar.ipynb
 ├── README.md
 └── sample_images/
     └── aadhar_sample.jpg
