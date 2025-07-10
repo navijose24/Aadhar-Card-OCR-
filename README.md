@@ -86,4 +86,3 @@ sudo apt install tesseract-ocr
 
 💬 Built with ❤️ for learning & open-source sharing
 
----
